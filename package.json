@@ -1,0 +1,26 @@
+{
+  "name": "MYSQL-Storefront",
+  "version": "1.0.0",
+  "description": "Creating digital store which sells products utilizing MYSQL to input data, retrieve data and compare data within the store database.",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jponly/MYSQL-Storefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jponly/MYSQL-Storefront/issues"
+  },
+  "homepage": "https://github.com/jponly/MYSQL-Storefront#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20"
+  }
+}
