@@ -6,7 +6,7 @@
 in CLI.
 
 ## Customer CLI Shopping Options
-# In the Command Line Interface, a shopper will have the option to buy a product. The images below demonstrates the protocol in choosing an item, the quantity and whether to keep shopping or checkout.
+* In the Command Line Interface, a shopper will have the option to buy a product. The images below demonstrates the protocol in choosing an item, the quantity and whether to keep shopping or checkout.
 
 Customer Interface with options to shop for product
 ![Customer Shopping CLI](customerCli.jpg)
@@ -19,7 +19,7 @@ When table is refreshed, shows item depletion
 
 
 ## Manager CLI Options
-# In node manager.js one is able to view the current inventory, view what is low in stock, add stock and add a new product. 
+* In node manager.js one is able to view the current inventory, view what is low in stock, add stock and add a new product. 
 
 Manager Options
 ![Manager CLI Options](managerOptions.jpg)
