@@ -11,7 +11,7 @@ in CLI.
 Customer Interface with options to shop for product
 ![Customer Shopping CLI](customerCli.jpg)
 
-nformation of steps taken to purchase item
+Information of steps taken to purchase item
 ![Customer Checkout CLI](customerCheckout.jpg)
 
 When table is refreshed, shows item depletion
