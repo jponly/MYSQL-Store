@@ -33,7 +33,7 @@ View of what is low in stock
 Steps towards adding inventory stock
 ![Manager Add Stock](managerAddstock.jpg)
 
-Added stock in table
+Added stock in table (359 before)
 ![Add Stock by Ten](stockAddten.jpg)
 
 Steps towards adding new product which is displayed in table
