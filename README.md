@@ -1,7 +1,7 @@
 # MYSQL-Store
 
 
-## OverView
+## Overview
 "Bamazon" Store utilizing a CLI to shop for products and Employers to check inventory, add stock and add new products. MySQL database to organize and track products and Node.js to create a path to the database and support functionality of the options given
 in CLI.
 
